@@ -2,7 +2,7 @@
 
 
 ## Programming language
-![C](https://img.icons8.com/color/48/000000/c-programming.png) C
+![C](https://img.icons8.com/color/48/000000/c-programming.png) 
 
 ## Compilation
 
