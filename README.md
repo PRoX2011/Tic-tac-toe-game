@@ -6,22 +6,19 @@
 
 ## Compilation
 
-### Clone the repository:
+Clone the repository:
 ```bash
 git clone <repository-url>
 ```
-
-### Navigate to the project directory:
+Navigate to the project directory:
 ```bash 
 cd <project-directory>
 ```
-
-### Compile the code:
+Compile the code:
 ```bash 
 gcc -o tic-tac-toe tic-tac-toe.c
 ```
-
-### Run the game
+Run the game
 ```bash
 ./tic-tac-toe
 ```
