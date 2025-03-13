@@ -1,5 +1,5 @@
 # Simple tic-tac-toe-game
-
+The console simple tic-tac-toe game.
 ![screenshot](https://github.com/PRoX2011/Tic-tac-toe-game/raw/main/screenshot.png)
 
 ## Programming language
