@@ -1,9 +1,12 @@
 # Simple tic-tac-toe-game
 The console simple tic-tac-toe game.
+
 ![screenshot](https://github.com/PRoX2011/Tic-tac-toe-game/raw/main/screenshot.png)
 
 ## Programming language
-![C](https://img.icons8.com/color/48/000000/c-programming.png) The C programming language
+The C programming language
+
+![C](https://img.icons8.com/color/48/000000/c-programming.png)
 
 ## Compilation
 
