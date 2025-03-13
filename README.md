@@ -1,5 +1,6 @@
 # Simple tic-tac-toe-game
 
+![screenshot](https://github.com/PRoX2011/Tic-tac-toe-game/raw/main/screenshot.png)
 
 ## Programming language
 ![C](https://img.icons8.com/color/48/000000/c-programming.png) 
